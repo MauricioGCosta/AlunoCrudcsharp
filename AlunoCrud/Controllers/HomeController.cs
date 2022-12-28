@@ -34,6 +34,11 @@ namespace AlunoCrud.Controllers
             return View();
         }
 
+        public IActionResult Alunos()
+        {
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
