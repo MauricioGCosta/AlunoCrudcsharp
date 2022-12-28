@@ -33,9 +33,9 @@ C:\Users\mauri\Documents\Cursos\CSharp\AlunoCrud\AlunoCrud\obj\Debug\netcoreapp2
 C:\Users\mauri\Documents\Cursos\CSharp\AlunoCrud\AlunoCrud\obj\Debug\netcoreapp2.1\AlunoCrud.pdb
 C:\Users\mauri\Documents\Cursos\CSharp\AlunoCrud\AlunoCrud\obj\Debug\netcoreapp2.1\AlunoCrud.genruntimeconfig.cache
 C:\Users\mauri\Documents\Cursos\CSharp\AlunoCrud\AlunoCrud\obj\Debug\netcoreapp2.1\AlunoCrud.csproj.CopyComplete
-C:\Users\mauri\Documents\Cursos\CSharp\AlunoCrud\AlunoCrud\obj\Debug\netcoreapp2.1\AlunoCrud.csproj.CoreCompileInputs.cache
 C:\Users\mauri\Documents\Cursos\CSharp\AlunoCrud\AlunoCrud\obj\Debug\netcoreapp2.1\Razor\Views\Alunoes\Create.cshtml.g.cs
 C:\Users\mauri\Documents\Cursos\CSharp\AlunoCrud\AlunoCrud\obj\Debug\netcoreapp2.1\Razor\Views\Alunoes\Delete.cshtml.g.cs
 C:\Users\mauri\Documents\Cursos\CSharp\AlunoCrud\AlunoCrud\obj\Debug\netcoreapp2.1\Razor\Views\Alunoes\Details.cshtml.g.cs
 C:\Users\mauri\Documents\Cursos\CSharp\AlunoCrud\AlunoCrud\obj\Debug\netcoreapp2.1\Razor\Views\Alunoes\Edit.cshtml.g.cs
 C:\Users\mauri\Documents\Cursos\CSharp\AlunoCrud\AlunoCrud\obj\Debug\netcoreapp2.1\Razor\Views\Alunoes\Index.cshtml.g.cs
+C:\Users\mauri\Documents\Cursos\CSharp\AlunoCrud\AlunoCrud\obj\Debug\netcoreapp2.1\AlunoCrud.csproj.CoreCompileInputs.cache

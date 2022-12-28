@@ -37,7 +37,9 @@ namespace AlunoCrud
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
             services.AddDbContext<AlunoCrudContext>(options =>
-                    options.UseSqlServer(Configuration.GetConnectionString("AlunoCrudContext")));
+                    options.UseMySql(Configuration.GetConnectionString("AlunoCrudContext"), builder =>
+                    builder.MigrationsAssembly("AlunoCrud")));
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
